@@ -58,7 +58,7 @@ Project chạy thử nghiệm trên 5 cấu hình khác nhau của:
 
 ## 5. 📁 File nộp
 
-- `mnist_numpy_nn.py`: mã nguồn hoàn chỉnh (training + evaluation)
+- `src.py`: mã nguồn hoàn chỉnh (training + evaluation)
 - `README.md`: báo cáo tổng hợp kết quả
 
 ---
